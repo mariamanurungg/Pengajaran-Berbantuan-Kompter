@@ -79,3 +79,4 @@ Terkadang seekor kucing di dalam kotak puzzle secara tidak sengaja menarik senar
 Sebaliknya, butuh sejumlah percobaan bagi kucing untuk belajar melalui coba-coba. Thorndike berpendapat bahwa penghargaan (misalnya, makanan) meningkatkan kekuatan hubungan antara rangsangan dan tanggapan. Penjelasan tentang apa yang tampak sebagai fenomena pemecahan masalah yang kompleks sebagai pelarian dari kotak teka-teki yang rumit dengan demikian dapat dijelaskan tanpa bantuan peristiwa mental
 yang tidak dapat diamati, seperti berpikir.
 
+![1](https://user-images.githubusercontent.com/112459285/194198480-5560df25-1310-4f90-a3eb-5b510fb77b2d.png)
